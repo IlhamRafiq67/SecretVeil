@@ -62,21 +62,3 @@ pip install -r requirements.txt
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as long as the license terms are followed.
 
-```
-
----
-
-### Project Structure
-
-1. **UpdSecretVeil.py**: The Python script containing the code for hiding and extracting messages.
-2. **requirements.txt**: The file listing the required dependencies (Pillow).
-3. **README.md**: The documentation file containing project details, installation steps, and usage instructions.
-4. **LICENSE**: A file specifying the project’s MIT open-source license.
-
----
-
-### `requirements.txt`
-
-```txt
-Pillow
-```
